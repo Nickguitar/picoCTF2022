@@ -18,4 +18,4 @@ Em suma, podemos usar `%n$s` e passar um valor inteiro no lugar de `n`. Isso ten
 
 Com a posição em mãos (24), basta usar o exploit no servidor:
 
-![](/Screennshots/Pasted%20image%2020220316111609.png)
+![](/Screenshots/Pasted%20image%2020220316111609.png)
