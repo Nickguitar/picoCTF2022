@@ -1,0 +1,1 @@
+Incompleto, ainda faltam alguns write-ups
