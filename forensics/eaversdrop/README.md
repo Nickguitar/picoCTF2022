@@ -1,4 +1,4 @@
-![](Pasted image 20220315231244.png)
+![](Pasted%20image%2020220315231244.png)
 
 ```
 >Hey, how do you decrypt this file again?
@@ -20,8 +20,8 @@
 ```
 
 
-![](Pasted image 20220315232159.png)
+![](Pasted%20image%2020220315232159.png)
 
-![](Pasted image 20220315232255.png)
+![](Pasted%20image%2020220315232255.png)
 
 `picoCTF{nc_73115_411_5786acc3}`
