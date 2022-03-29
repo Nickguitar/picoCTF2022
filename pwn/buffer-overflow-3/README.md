@@ -12,7 +12,7 @@ Porém, neste caso, o canary (os bytes adicionados à stack) não é aleatório 
 
 Como o buffer tem 64 bytes, podemos escrever 64 bytes e os próximos serão comparados com o canary. É possível ver que ao mudar o 65º byte (que já está sobrescrevendo o canary), podemos descobrir qual é o seu valor real. Caso o valor esteja errado, ele retorna um erro. Caso contrário, ele retorna "Ok".
 
-![](/Screenshot/Pasted%20image%2020220329115247.png)
+![](/Screenshots/Pasted%20image%2020220329115247.png)
 
 Podemos facilmente fazer um script de brute force em bash:
 
